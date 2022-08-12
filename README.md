@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clydeBughao
-- 👀 I’m interested in web development (for now)
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 👀 I’m interested in Data Science, but I'm currently studying Data Analytics since it is the closest branch from being a Finance Analyst
+- 🌱 I’m currently learning Python
 
 
 <!---
